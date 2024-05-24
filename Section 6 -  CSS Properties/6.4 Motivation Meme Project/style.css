@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+#image {
+    margin-top: 30px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+#ice-cream {
+    width: 70%;
+    border: 5px white solid;
+}
+
+h1 {
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
